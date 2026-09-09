@@ -1,0 +1,20 @@
+{
+  "name": "brand-exploration-marketplace",
+  "interface": {
+    "displayName": "Brand Exploration Marketplace"
+  },
+  "plugins": [
+    {
+      "name": "brand-exploration",
+      "source": {
+        "source": "local",
+        "path": "./plugins/brand-exploration"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

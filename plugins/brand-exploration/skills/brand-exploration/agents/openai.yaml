@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Exploration"
+  short_description: "Цельный брендборд из логотипа: 9 разделов"
+  default_prompt: "Используй $brand-exploration и создай единый брендборд по приложенному логотипу."

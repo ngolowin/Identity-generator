@@ -1,0 +1,22 @@
+{
+  "name": "brand-exploration",
+  "version": "0.1.0",
+  "description": "Create one complete brand exploration board from an uploaded logo, with nine coordinated design sections.",
+  "author": {
+    "name": "Brand Exploration"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Brand Exploration",
+    "shortDescription": "Брендборд из логотипа: 9 разделов в одном изображении",
+    "longDescription": "Анализирует загруженный логотип и создаёт цельный Brand Exploration board: варианты логотипа, шрифтовые пары, палитра, иконки, фото, фактуры, мудборд, мокапы и CTA. Требуется доступная генерация изображений в чате.",
+    "developerName": "Brand Exploration",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Создай Brand Exploration board по приложенному логотипу.",
+      "Собери все 9 разделов брендборда в одно широкое изображение.",
+      "Обнови брендборд по моим правкам, сохранив форму логотипа."
+    ]
+  }
+}
